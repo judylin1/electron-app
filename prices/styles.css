@@ -13,6 +13,11 @@
   color: #E5E5E5;
 }
 
+.platinum, .platinum small {
+  background-color: blue;
+  color: #FFFFFF;
+}
+
 html, body, .container-fluid {
   height: 100%;
 }
